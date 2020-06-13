@@ -1,0 +1,1 @@
+this project is aimed at practising angular 6 by creating a small web site for pets
